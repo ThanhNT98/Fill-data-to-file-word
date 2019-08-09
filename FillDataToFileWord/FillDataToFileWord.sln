@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillDataToFileWord", "FillDataToFileWord.csproj", "{5D938757-D439-49EE-A50D-91F88C28151E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D938757-D439-49EE-A50D-91F88C28151E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D938757-D439-49EE-A50D-91F88C28151E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D938757-D439-49EE-A50D-91F88C28151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D938757-D439-49EE-A50D-91F88C28151E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E1E3A16-143B-4A8E-BBB9-706144005B44}
+	EndGlobalSection
+EndGlobal
